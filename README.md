@@ -1,6 +1,6 @@
 # Towing Project
 ## [Final Repoport](Towing_Analysis_Final_Report.pdf)
-## [Slides](link)
+## [Slides](https://a1-3x.github.io/tow_analysis/)
 ## [Dataset](datasetinfo.md)
 ## [Google Colab Python](googlecolab.md)
 
