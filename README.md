@@ -27,16 +27,19 @@ Four tools in the form of web apps were developed over the course of this projec
 ## [Web Apps](Webapp.md)
 1. [Ranking Towing Company](https://towrank.netlify.app)
 
-The Tow Ranking web app demonstrates the capability of this or similar data to rank merchants on their level of deviation from the mean. Applications based on different measures can be developed as their importance is uncovered. More information and calculations can be found [here](ranking-app.md).
+   The Tow Ranking web app demonstrates the capability of this or similar data to rank merchants on their level of deviation from the mean. Applications based on different measures can be developed as their importance is uncovered. More information and calculations can be found [here](ranking-app.md).
 
-2. [Tow](towpuls.md)(https://towr.netlify.app)
+2. [Tow](https://towr.netlify.app)
 
-The Towr app is aimed at consumers. Its purpose is to prevent trespass tows from occuring by educating vehicle owners on where vehicles have been towed from in the past.
+   The Towr app is aimed at consumers. Its purpose is to prevent trespass tows from occuring by educating vehicle owners on where vehicles have been towed from in the past. Consumers looking to park their vehicle may look up an address, or share their location with the app, and will be met with a map indicating locations nearby that have seen trespass tows in the past 3 years.
 
 ![image](https://github.com/user-attachments/assets/ccc8be5f-1f5d-4d14-b3ce-6cba2628467c)
 
-3. [Towing Station Distance](tow-distance.md)(https://towdist.vercel.app )
-4. [Pre Screening Complain Form](pre-screen.md)(https://towdist.vercel.app )
+3. [Towing Station Distance](tow-distance.md)(https://towdist.vercel.app)
+
+
+
+5. [Pre Screening Complain Form](pre-screen.md)(https://towdist.vercel.app )
 
 
 
