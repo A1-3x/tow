@@ -1,5 +1,6 @@
 # Trespass Towing Analysis
 
+Trespass towing is the act of hauling a vehicle from one location to another without the consent of the vehicle’s owner. In Montgomery County, Maryland, more than 100,000 vehicles have been towed in this manner since July 2021. 
 
 
 ## [Final Report](Towing_Analysis_Final_Report.pdf)
@@ -8,6 +9,9 @@
    - [PDF](Tow_Slides_Final.pdf)
 ## [Datasets](datasetinfo.md)
    - [Trespass Towing Report](https://data.montgomerycountymd.gov/Consumer-Housing/Trespass-Towing-Report/i6vn-3s6e/about_data)
+
+     The core of the data used to analyze trespass towing comes from a database maintained by the Montgomery County Police Department. An updated dataset is published to the dataMontgomery website monthly. Its current version includes over 100,000 entries detailing the the date each vehicle was towed, its location (address and coordinates), the reason it was towed, and information on the vehicle's make, model, and year of manufacture.
+     
    - Trespass Towing Complaints
 ## Notebooks
    - [Data Wrangling]
