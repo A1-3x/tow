@@ -18,14 +18,11 @@ Four tools in the form of web apps were developed over the course of this projec
 
 ## [Web App](Webapp.md)
 1. [Ranking Towing Company](ranking-app.md)(https://towrank.netlify.app)
-     
+The aim of the Tow Ranking prototype is to demonstrate the capability of this or similar data to rank merchants on their level of inconvenience to consumers. It is based on four measures.  
 2. [Tow](towpuls.md)(https://towr.netlify.app)
 3. [Towing Station Distance](tow-distance.md)(https://towdist.vercel.app )
 4. [Pre Screening Complain Form](pre-screen.md)(https://towdist.vercel.app )
-   
 
-
-## Todo
 
 
 
