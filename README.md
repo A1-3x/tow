@@ -13,6 +13,10 @@ Trespass towing is the act of hauling a vehicle from one location to another wit
      The core of the data used to analyze trespass towing comes from a database maintained by the Montgomery County Police Department. An updated dataset is published to the dataMontgomery website monthly. Its current version includes over 100,000 entries detailing the the date each vehicle was towed, its location (address and coordinates), the reason it was towed, and information on the vehicle's make, model, and year of manufacture.
      
    - Trespass Towing Complaints
+
+     The Office of Consumer Protections also provided data on trespass towing complaints filed in the 2024 fiscal year. This data includes the location of the tow, the merchant in question, the practice being disputed, and the result of the case. Details regarding these complaints can be found in the dashboard created for this project. The dataset itself is not provided to preserve the privacy of the consumers.
+
+   - Community Equity Index
 ## Notebooks
    - [Data Wrangling]
    - [Exploratory Data Analysis]
