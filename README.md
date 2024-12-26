@@ -20,7 +20,7 @@ On December 17, 2024 a presentation was given at the Montgomery County Stella We
 
    - [EPA Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping)
 
-   "The Environmental Protection Agency’s (EPA) Smart Location Database (SLD) was developed to address the growing demand for data products and tools that consistently compare the location efficiency of various places. The SLD summarizes several demographic, employment, and built environment variables for every Census block group (CBG) in the United States."
+     "The Environmental Protection Agency’s (EPA) Smart Location Database (SLD) was developed to address the growing demand for data products and tools that consistently compare the location efficiency of various places. The SLD summarizes several demographic, employment, and built environment variables for every Census block group (CBG) in the United States."
 
    - [Community Equity Index](https://montgomeryplanning.org/planning/equity-agenda-for-planning/community-equity-index-analysis/)
 
