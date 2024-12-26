@@ -46,6 +46,8 @@ An interactive [dashboard](https://mcgov-gis.maps.arcgis.com/apps/dashboards/075
    - [Exploratory Data Analysis](notebooks/tresspass_towing_EDA.ipynb)
    - [Census Data Queries](notebooks/analyzing_census_data.ipynb)
    - [Rate of Change](notebooks/Towing_Rate_of_Change.ipynb)
+     Compares the monthly towing rates and the rates at which they change.
+      $$\text{Monthly Rate of Change} = \frac{T_{m} - T_{m-1}}{m - (m-1)}$$
    - [Correlations](notebooks/Towing_Correlations.ipynb)
         Explores correlations between numerical variables.
      
