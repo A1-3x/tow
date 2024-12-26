@@ -12,7 +12,7 @@ On December 17, 2024 a presentation was given at the Montgomery County Stella We
 ## [Datasets](datasetinfo.md)
    - [Trespass Towing Report](https://data.montgomerycountymd.gov/Consumer-Housing/Trespass-Towing-Report/i6vn-3s6e/about_data)
 
-     The core of the data used to analyze trespass towing comes from a database maintained by the Montgomery County Police Department. An updated dataset is published to the dataMontgomery website monthly. Its current version includes over 100,000 entries detailing the the date each vehicle was towed, its location (address and coordinates), the reason it was towed, and information on the vehicle's make, model, and year of manufacture. A wrangled version of this dataset that includes additional Census tract data is included in a zip drive.
+     The core of the data used to analyze trespass towing comes from a database maintained by the Montgomery County Police Department. An updated dataset is published to the dataMontgomery website monthly. Its current version includes over 100,000 entries detailing the the date each vehicle was towed, its location (address and coordinates), the reason it was towed, and information on the vehicle's make, model, and year of manufacture. A wrangled version of this dataset that includes additional Census tract data is included zipped and titled [tows.csv](tows.zip).
      
    - Trespass Towing Complaints
 
@@ -52,17 +52,18 @@ Four tools in the form of web apps were developed over the course of this projec
    The Towr app is aimed at consumers. Its purpose is to prevent trespass tows from occuring by educating vehicle owners on where vehicles have been towed from in the past. Consumers looking to park their vehicle may look up an address, or share their location with the app, and will be met with a map indicating locations nearby that have seen trespass tows in the past 3 years.
 
    ![image](https://github.com/user-attachments/assets/9da2a43b-0322-4fe3-af01-1fcc8c6c3a15)
+   ![image](tow_heatmap_qr.png)
 
 
 
-4. [Towing Station Distance](https://towdist.vercel.app)
+5. [Towing Station Distance](https://towdist.vercel.app)
 
    ![image](https://github.com/user-attachments/assets/901dceb7-1c91-4f1e-bb9a-ecec0358efd2)
 
 
 
 
-5. [Pre Screening Complain Form](https://towwatch.vercel.app )
+6. [Pre Screening Complain Form](https://towwatch.vercel.app )
 
    ![image](https://github.com/user-attachments/assets/a3f72ce9-59c4-450f-8086-25955fdc45a2)
 
