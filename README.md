@@ -41,10 +41,12 @@ On December 17, 2024 a presentation was given at the Montgomery County Stella We
         Explores correlations between numerical variables.
      
 ### [Google Colab Python](googlecolab.md)
-
-Four tools in the form of web apps were developed over the course of this project. The aim of creating these prototypes was to demonstrate that there exists a variety of ways that data-driven solutions can be utilized to mitigate the issues uncovered in this research. 
+ 
 
 ## Web Apps
+
+Four tools in the form of web apps were developed over the course of this project. The aim of creating these prototypes was to demonstrate that there exists a variety of ways that data-driven solutions can be utilized to mitigate the issues uncovered in this research.
+
 1. [Ranking Towing Company](https://towrank.netlify.app)
 
    The Tow Ranking web app demonstrates the capability of this or similar data to rank merchants on their level of deviation from the mean. Applications based on different measures can be developed as their importance is uncovered. More information and calculations can be found [here](ranking-app.md).
