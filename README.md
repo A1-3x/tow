@@ -18,6 +18,10 @@ On December 17, 2024 a presentation was given at the Montgomery County Stella We
 
      The Office of Consumer Protection also provided data on trespass towing complaints filed in the 2024 fiscal year. This data includes the location of the tow, the merchant in question, the practice being disputed, and the result of the case. Details regarding these complaints can be found in the dashboard created for this project. The dataset itself is not provided to preserve the privacy of the consumers.
 
+   - [EPA Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping)
+
+   "The Environmental Protection Agency’s (EPA) Smart Location Database (SLD) was developed to address the growing demand for data products and tools that consistently compare the location efficiency of various places. The SLD summarizes several demographic, employment, and built environment variables for every Census block group (CBG) in the United States."
+
    - [Community Equity Index](https://montgomeryplanning.org/planning/equity-agenda-for-planning/community-equity-index-analysis/)
 
      The Community Equity Index (CEI) is "a composite measure of five indicators of how the county’s socioeconomic diversity is distributed, or which neighborhoods have concentrated advantage or disadvantage and which neighborhoods are representative of the county’s diversity." It is a product of Montgomery Planning's Research and Strategic Projects Division. CEI is based on five statistics:
