@@ -32,9 +32,14 @@ On December 17, 2024 a presentation was given at the Montgomery County Stella We
       -   Per capita income
   
 ## Notebooks
-   - [Data Wrangling](tresspass_towing_wrangle.ipynb)
+   - [Data Wrangling](notebooks/tresspass_towing_wrangle.ipynb)
         The Trespass Towing dataset required a great deal of data wrangling. Much of the data had to be parsed from the notes column.
-   - [Exploratory Data Analysis](tresspass_towing_EDA.ipynb)
+   - [Exploratory Data Analysis](notebooks/tresspass_towing_EDA.ipynb)
+   - [Census Data Queries](notebooks/analyzing_census_data.ipynb)
+   - [Rate of Change](notebooks/Towing_Rate of Change.ipynb)
+   - [Correlations](notebooks/Towing_Correlations.ipynb)
+        Explores correlations between numerical variables.
+     
 ### [Google Colab Python](googlecolab.md)
 
 Four tools in the form of web apps were developed over the course of this project. The aim of creating these prototypes was to demonstrate that there exists a variety of ways that data-driven solutions can be utilized to mitigate the issues uncovered in this research. 
