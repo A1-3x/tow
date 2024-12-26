@@ -2,10 +2,11 @@
 
 Trespass towing is the act of hauling a vehicle from one location to another without the consent of the vehicle’s owner. In Montgomery County, Maryland more than 100,000 vehicles have been towed in this manner since July 2021. 
 
-By law, each invoice received for a trespass tow must include information prompting the vehicle owner to contact the Montgomery County Office of Consumer Protections with any complaints. In addition to investigating these complaints and ensuring merchants comply with regulations, the Office of Consumer Protections aims to reduce the number of trespass tows. The county enlisted Montgomery College to explore the data surrounding these cases, as well as some of the complaints filed against them. The goal of this partnership was to assess the trends in County tow data by analyzing County towing locations, towing agencies, and the towing populations while applying a racial equity and social justice lens.
+By law, each invoice received for a trespass tow must include information prompting the vehicle owner to contact the Montgomery County Office of Consumer Protection with any complaints. In addition to investigating these complaints and ensuring merchants comply with regulations, the Office of Consumer Protection aims to reduce the number of trespass tows. The county enlisted Montgomery College to explore the data surrounding these cases, as well as some of the complaints filed against them. The goal of this partnership was to assess the trends in County tow data by analyzing County towing locations, towing agencies, and the towing populations while applying a racial equity and social justice lens.
 
 ## [Final Report](Towing_Analysis_Final_Report.pdf)
 ## Slides
+On December 17, 2024 a presentation was given at the Montgomery County Stella Werner Council Office Building summarizing this project and laying a path forward for this data.
    - [Website](https://a1-3x.github.io/tow_analysis/)
    - [PDF](Tow_Slides_Final.pdf)
 ## [Datasets](datasetinfo.md)
