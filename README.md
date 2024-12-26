@@ -11,13 +11,20 @@ By law, each invoice received for a trespass tow must include information prompt
 ## [Datasets](datasetinfo.md)
    - [Trespass Towing Report](https://data.montgomerycountymd.gov/Consumer-Housing/Trespass-Towing-Report/i6vn-3s6e/about_data)
 
-     The core of the data used to analyze trespass towing comes from a database maintained by the Montgomery County Police Department. An updated dataset is published to the dataMontgomery website monthly. Its current version includes over 100,000 entries detailing the the date each vehicle was towed, its location (address and coordinates), the reason it was towed, and information on the vehicle's make, model, and year of manufacture.
+     The core of the data used to analyze trespass towing comes from a database maintained by the Montgomery County Police Department. An updated dataset is published to the dataMontgomery website monthly. Its current version includes over 100,000 entries detailing the the date each vehicle was towed, its location (address and coordinates), the reason it was towed, and information on the vehicle's make, model, and year of manufacture. A wrangled version of this dataset that includes additional Census tract data is included in a zip drive.
      
    - Trespass Towing Complaints
 
-     The Office of Consumer Protections also provided data on trespass towing complaints filed in the 2024 fiscal year. This data includes the location of the tow, the merchant in question, the practice being disputed, and the result of the case. Details regarding these complaints can be found in the dashboard created for this project. The dataset itself is not provided to preserve the privacy of the consumers.
+     The Office of Consumer Protection also provided data on trespass towing complaints filed in the 2024 fiscal year. This data includes the location of the tow, the merchant in question, the practice being disputed, and the result of the case. Details regarding these complaints can be found in the dashboard created for this project. The dataset itself is not provided to preserve the privacy of the consumers.
 
    - [Community Equity Index](https://montgomeryplanning.org/planning/equity-agenda-for-planning/community-equity-index-analysis/)
+
+     The Community Equity Index (CEI) is "a composite measure of five indicators of how the county’s socioeconomic diversity is distributed, or which neighborhoods have concentrated advantage or disadvantage and which neighborhoods are representative of the county’s diversity." It is based on five measures:
+      1. Percent of people living below 200% of the federal poverty level
+      2. Percent of people with less than a bachelor’s degree
+      3. Percent of people who speak English “less than very well”
+      4. Percent of people who rent housing
+      5. Per capita income
      
 ## Notebooks
    - [Data Wrangling](tresspass_towing_wrangle.ipynb)
