@@ -18,7 +18,8 @@ Trespass towing is the act of hauling a vehicle from one location to another wit
 
    - Community Equity Index
 ## Notebooks
-   - [Data Wrangling]
+   - [Data Wrangling](tresspass_towing_wrangle.ipynb)
+        The Trespass Towing dataset required a great deal of data wrangling. Much of the data had to be parsed from the notes column.
    - [Exploratory Data Analysis]
 ### [Google Colab Python](googlecolab.md)
 
