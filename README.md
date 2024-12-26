@@ -43,11 +43,18 @@ An interactive [dashboard](https://mcgov-gis.maps.arcgis.com/apps/dashboards/075
 ## Notebooks
    - [Data Wrangling](notebooks/tresspass_towing_wrangle.ipynb)
         The Trespass Towing dataset required a great deal of data wrangling. Much of the data had to be parsed from the notes column.
+   - [Geocoding](notebooks/trespass_towing_gis.ipynb) Geocoding FIPS from given coordinates.
    - [Exploratory Data Analysis](notebooks/tresspass_towing_EDA.ipynb)
+   - [Time Series Map](notebooks/Time_Series_Heatmap.ipynb) For creating a map that shows towing locations over time.
+   - [Top 10 Map](notebooks/top_10_heatmap.ipynb) For creating a map that filters towing locations by company.
+   - [Projection of Monthly Towing Rates](notebooks/Time_Series_Heatmap.ipynb) Timeseries of monthly towing rates with linear regression.
+   - [Haversine vs. Driving Distance](notebooks/Heaversine_vs_actual.ipynb) An investigation into the relationship between straight line and driving distances.
    - [Census Data Queries](notebooks/analyzing_census_data.ipynb)
+     Template for using the Census API.
    - [Rate of Change](notebooks/Towing_Rate_of_Change.ipynb)
      Compares the monthly towing rates and the rates at which they change.
-      $$\text{Monthly Rate of Change} = \frac{T_{m} - T_{m-1}}{m - (m-1)}$$
+
+     $$\text{Monthly Rate of Change} = \frac{T_{m} - T_{m-1}}{m - (m-1)}$$
    - [Correlations](notebooks/Towing_Correlations.ipynb)
         Explores correlations between numerical variables.
      
