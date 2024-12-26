@@ -17,7 +17,8 @@ By law, each invoice received for a trespass tow must include information prompt
 
      The Office of Consumer Protections also provided data on trespass towing complaints filed in the 2024 fiscal year. This data includes the location of the tow, the merchant in question, the practice being disputed, and the result of the case. Details regarding these complaints can be found in the dashboard created for this project. The dataset itself is not provided to preserve the privacy of the consumers.
 
-   - Community Equity Index
+   - [Community Equity Index](https://montgomeryplanning.org/planning/equity-agenda-for-planning/community-equity-index-analysis/)
+     
 ## Notebooks
    - [Data Wrangling](tresspass_towing_wrangle.ipynb)
         The Trespass Towing dataset required a great deal of data wrangling. Much of the data had to be parsed from the notes column.
