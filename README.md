@@ -4,12 +4,21 @@ Trespass towing is the act of hauling a vehicle from one location to another wit
 
 By law, each invoice received for a trespass tow must include information prompting the vehicle owner to contact the Montgomery County Office of Consumer Protection with any complaints. In addition to investigating these complaints and ensuring merchants comply with regulations, the Office of Consumer Protection aims to reduce the number of trespass tows. The county enlisted Montgomery College to explore the data surrounding these cases, as well as some of the complaints filed against them. The goal of this partnership was to assess the trends in County tow data by analyzing County towing locations, towing agencies, and the towing populations while applying a racial equity and social justice lens.
 
-## [Final Report](Towing_Analysis_Final_Report.pdf)
-## Slides
+### [Final Report](Towing_Analysis_Final_Report.pdf)
+
+## Presentation Slides
 On December 17, 2024 a presentation was given at the Montgomery County Stella Werner Council Office Building summarizing this project and laying a path forward for this data.
    - [Website](https://a1-3x.github.io/tow_analysis/)
    - [PDF](Tow_Slides_Final.pdf)
-## [Datasets](datasetinfo.md)
+
+## Dashboard
+
+An interactive [dashboard](https://mcgov-gis.maps.arcgis.com/apps/dashboards/075030832da640858aea4636bf980965) was created to explore the data.
+
+![image](https://github.com/user-attachments/assets/9863684d-28f7-4bff-8688-660e731881ae)
+
+
+## Datasets
    - [Trespass Towing Report](https://data.montgomerycountymd.gov/Consumer-Housing/Trespass-Towing-Report/i6vn-3s6e/about_data)
 
      The core of the data used to analyze trespass towing comes from a database maintained by the Montgomery County Police Department. An updated dataset is published to the dataMontgomery website monthly. Its current version includes over 100,000 entries detailing the the date each vehicle was towed, its location (address and coordinates), the reason it was towed, and information on the vehicle's make, model, and year of manufacture. A wrangled version of this dataset that includes additional Census tract data is included zipped and titled [tows.csv](tows.zip).
