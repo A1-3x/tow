@@ -39,7 +39,8 @@ Four tools in the form of web apps were developed over the course of this projec
 
 3. [Towing Station Distance](https://towdist.vercel.app)
 
-   ![image](https://github.com/user-attachments/assets/cac278ee-00d0-4825-bcaf-e792f390000f)
+   ![image](https://github.com/user-attachments/assets/901dceb7-1c91-4f1e-bb9a-ecec0358efd2)
+
 
 
 
