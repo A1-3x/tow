@@ -36,7 +36,7 @@ On December 17, 2024 a presentation was given at the Montgomery County Stella We
         The Trespass Towing dataset required a great deal of data wrangling. Much of the data had to be parsed from the notes column.
    - [Exploratory Data Analysis](notebooks/tresspass_towing_EDA.ipynb)
    - [Census Data Queries](notebooks/analyzing_census_data.ipynb)
-   - [Rate of Change](notebooks/Towing_Rate of Change.ipynb)
+   - [Rate of Change](notebooks/Towing_Rate_of_Change.ipynb)
    - [Correlations](notebooks/Towing_Correlations.ipynb)
         Explores correlations between numerical variables.
      
@@ -44,12 +44,13 @@ On December 17, 2024 a presentation was given at the Montgomery County Stella We
 
 Four tools in the form of web apps were developed over the course of this project. The aim of creating these prototypes was to demonstrate that there exists a variety of ways that data-driven solutions can be utilized to mitigate the issues uncovered in this research. 
 
-## [Web Apps](Webapp.md)
+## Web Apps
 1. [Ranking Towing Company](https://towrank.netlify.app)
 
    The Tow Ranking web app demonstrates the capability of this or similar data to rank merchants on their level of deviation from the mean. Applications based on different measures can be developed as their importance is uncovered. More information and calculations can be found [here](ranking-app.md).
 
    ![image](https://github.com/user-attachments/assets/d58ace4d-0473-408a-8ba0-d4f3b8c3250f)
+   ![image](qrs/montgomery_county_towing_rankings_qr.png)
 
 
 3. [Towr](https://towr.netlify.app)
@@ -57,20 +58,26 @@ Four tools in the form of web apps were developed over the course of this projec
    The Towr app is aimed at consumers. Its purpose is to prevent trespass tows from occuring by educating vehicle owners on where vehicles have been towed from in the past. Consumers looking to park their vehicle may look up an address, or share their location with the app, and will be met with a map indicating locations nearby that have seen trespass tows in the past 3 years.
 
    ![image](https://github.com/user-attachments/assets/9da2a43b-0322-4fe3-af01-1fcc8c6c3a15)
-   ![image](tow_heatmap_qr.png)
+   ![image](qrs/tow_heatmap_qr.png)
 
 
 
-5. [Towing Station Distance](https://towdist.vercel.app)
+4. [Towing Station Distance](https://towdist.vercel.app)
+
+   The Tow Station Distance tool is aimed at county employees. Once a location is selected on the map, it calculates the Haversine distance between it and all active registered storage lots. The map indicates in red which lots violate Montgomery County Code, Chapter 30C, which states: "A storage site must not be more than 15 miles from the origin of the tow." The app provides a list of all the sites, sorted by ascending distance, with an option to filter for only those merchants violating the rule.
 
    ![image](https://github.com/user-attachments/assets/901dceb7-1c91-4f1e-bb9a-ecec0358efd2)
+   ![image](qrs/montgomery_county_towing_distance_calculator_qr.png)
 
 
 
 
-6. [Pre Screening Complain Form](https://towwatch.vercel.app )
+7. [Pre Screening Complaint Form](https://towwatch.vercel.app )
+
+   The TowWatch Pre-Screening Complaint form is aimed at vehicle owners who have experienced trespass towing. This prototype prompts the user for the company that towed their vehicle using a drop down menu. If the merchant does not appear on this menu, then it is most likely not registered to operate in Montgomery County and the user is encouraged to file a complaint with the Office of Consumer Protection. If the merchant is on the list, then the user is prompted to provide the address from which their vehicle was towed. If the 15 mile rule is violated, the user is encouraged to file a complaint as well. Future versions may include additional questions to better guide the consumer.
 
    ![image](https://github.com/user-attachments/assets/a3f72ce9-59c4-450f-8086-25955fdc45a2)
+   ![image](qrs/prescreening_complaint_qr.png)
 
 
 
