@@ -20,8 +20,8 @@ By law, each invoice received for a trespass tow must include information prompt
    - [Community Equity Index](https://montgomeryplanning.org/planning/equity-agenda-for-planning/community-equity-index-analysis/)
 
      The Community Equity Index (CEI) is "a composite measure of five indicators of how the county’s socioeconomic diversity is distributed, or which neighborhoods have concentrated advantage or disadvantage and which neighborhoods are representative of the county’s diversity." It is based on five measures:
-      1. Percent of people living below 200% of the federal poverty level
-      2. Percent of people with less than a bachelor’s degree
+      -   Percent of people living below 200% of the federal poverty level
+      -   Percent of people with less than a bachelor’s degree
       3. Percent of people who speak English “less than very well”
       4. Percent of people who rent housing
       5. Per capita income
