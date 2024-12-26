@@ -20,7 +20,7 @@ Trespass towing is the act of hauling a vehicle from one location to another wit
 ## Notebooks
    - [Data Wrangling](tresspass_towing_wrangle.ipynb)
         The Trespass Towing dataset required a great deal of data wrangling. Much of the data had to be parsed from the notes column.
-   - [Exploratory Data Analysis]
+   - [Exploratory Data Analysis](tresspass_towing_EDA.ipynb)
 ### [Google Colab Python](googlecolab.md)
 
 Four tools in the form of web apps were developed over the course of this project. The aim of creating these prototypes was to demonstrate that there exists a variety of ways that data-driven solutions can be utilized to mitigate the issues uncovered in this research. 
